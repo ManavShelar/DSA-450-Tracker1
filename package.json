@@ -1,9 +1,12 @@
 {
+  "homepage":"https://github.com/ManavShelar/DSA-450-Tracker1",
   "name": "a2z",
   "private": true,
   "version": "0.1.0",
   "type": "module",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dlist",  
     "dev": "vite --port 3000",
     "build": "vite build",
     "preview": "vite preview",
