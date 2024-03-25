@@ -1,12 +1,12 @@
 {
-  "homepage":"https://manavshelar.github.io/DSA-450-Tracker1",
+  "homepage": "https://manavshelar.github.io/DSA-450-Tracker1",
   "name": "a2z",
   "private": true,
   "version": "0.1.0",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dlist",  
+    "deploy": "gh-pages -d dist",
     "dev": "vite --port 3000",
     "build": "vite build",
     "preview": "vite preview",
@@ -37,6 +37,7 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-simple-import-sort": "^7.0.0",
     "eslint-plugin-sonarjs": "^0.15.0",
+    "gh-pages": "^6.1.1",
     "lint-staged": "^13.0.3",
     "prettier": "^2.7.1",
     "vite": "^3.1.0"
