@@ -1,11 +1,10 @@
-# A2Z-DSA Tracker 🚀
+# 450-DSA Tracker 🚀
 
 [![React Badge](http://img.shields.io/badge/Powered%20By-React-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![Website Badge](https://img.shields.io/badge/Visit-Now-green?style=for-the-badge&logo=vercel)](https://a2zdsa.pages.dev/)
 
 ## Overview 👀
 
-![cover](https://user-images.githubusercontent.com/63164037/194750460-b42c8096-dbc9-43c0-aaa0-5e581b357c4a.png)
 
 - **Topic wise question search 🔍**
 - **Random question picker😉**
